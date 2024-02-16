@@ -4,3 +4,7 @@ Strona stworzona w **HTML** z wykorzystaniem **Bootstrapa** i **CSS**. Zawiera i
 * Skład zespołu
 * Film prezentujący aplikację
 * Sprawozdanie ze spotkań i harmonogram prac
+
+https://github.com/DarkArbiterr/TrusteeWWW/assets/75552617/564d5ee6-7849-4ae1-892e-8bdad2f52088
+
+
